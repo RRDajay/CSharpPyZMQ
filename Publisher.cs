@@ -4,7 +4,7 @@ using System.Threading;
 using NetMQ;
 using NetMQ.Sockets;
 
-namespace sample2 { 
+namespace Publisher { 
 
     class Program { 
 
