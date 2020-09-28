@@ -9,4 +9,5 @@ def recv():
     while True:
         print(subscriber.recv())
 
-recv()
+while True:
+    recv()

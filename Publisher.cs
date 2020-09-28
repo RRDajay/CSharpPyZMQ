@@ -6,7 +6,7 @@ using NetMQ.Sockets;
 
 namespace Publisher { 
 
-    class Program { 
+    class Publisher { 
 
     // Main Method 
         static void Main(string[] args) 
